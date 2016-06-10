@@ -1,1 +1,2 @@
-console.log("my morning jacket");
+var text = "some random text";
+console.log(text);
