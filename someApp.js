@@ -1,2 +1,2 @@
 var text = "some random text";
-console.log(text);
+console.log('a message': text);
